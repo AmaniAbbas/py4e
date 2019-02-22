@@ -19,5 +19,4 @@ Coursera Specialization :
     * [Quizzes](https://github.com/AmaniAbbas/py4e/tree/master/Course-3/Quizzes)
 
 *  Course 4: Using Databases with Python:
-    * [Assignemnts](https://github.com/AmaniAbbas/py4e/tree/master/Course-4/Assignments)
-    * [Quizzes](https://github.com/AmaniAbbas/py4e/tree/master/Course-4/Quizzes)
+    * [5 Weeks: Assignments and Quizzes](https://github.com/AmaniAbbas/py4e/tree/master/Course-4)
